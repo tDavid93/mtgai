@@ -1,0 +1,3 @@
+FROM postgres
+ENV POSTGRES_PASSWORD mtgai
+ENV POSTGRES_DB decks
